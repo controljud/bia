@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="imagens/celula01.png" style="width: 123px"> BIA
+    <img src="imagens/celula01.png" width="100"> BIA
 </p>
 
 ## Sobre a BIA
